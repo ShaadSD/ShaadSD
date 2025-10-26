@@ -27,7 +27,7 @@ I’m passionate about writing **clean, efficient code** and continuously improv
 
 ### 🏆 Achievements & Competitions
 
-- 🥉 **3rd Place** - DIU Spring Fest Programming Contest 2024 | Team: *Segmentation_fault*  
+- 🥉 **3rd Place** - DIU Spring Fest Programming Contest 2024  
 - 💻 **ICPC Collaborative Contest 85** - Rank 110 out of 186 teams  
 - 🚀 **NASA Space Apps Challenge 2024** | Team: *DARK SEA*  
 - 🚀 **NASA Space Apps Challenge 2025** | Team: *WEDNESDAY*
